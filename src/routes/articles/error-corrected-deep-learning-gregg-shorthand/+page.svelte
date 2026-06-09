@@ -85,7 +85,7 @@
 					<span class="font-medium text-[var(--text-strong)]">{author.name}</span>
 					<span class="ml-1 inline">({author.role})</span>
 					<a
-						href="https://orcid.org/0009-0008-5679-3042"
+						href="https://orcid.org/0009-0009-7313-138X"
 						target="_blank"
 						rel="noreferrer"
 						class="ml-1 -translate-y-10 text-xs text-[var(--accent)]"
@@ -126,7 +126,7 @@
 								/>
 							</g>
 						</svg>
-						<p class="inline-block">https://orcid.org/0009-0008-5679-3042</p>
+						<p class="inline-block">https://orcid.org/0009-0009-7313-138X</p>
 					</a>
 					<!-- eslint-enable svelte/no-navigation-without-resolve -->{i <
 					data.article.authors.length - 1
