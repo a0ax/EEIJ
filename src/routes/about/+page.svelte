@@ -32,7 +32,7 @@
 			<h2 class="text-2xl font-semibold text-[var(--text-strong)]">Journal details</h2>
 			<ul class="mt-4 space-y-2 text-sm leading-7 text-[var(--text-default)]">
 				<li><span class="font-medium">Website:</span> www.jyse.org</li>
-				<li><span class="font-medium">ISSN:</span> 2319-6378 (Online)</li>
+				<li><span class="font-medium">ISSN:</span> 2319-6376 (Online)</li>
 				<li><span class="font-medium">Frequency:</span> 12 issues per year (monthly)</li>
 				<li><span class="font-medium">Publication language:</span> English</li>
 				<li><span class="font-medium">Open access:</span> Yes</li>
