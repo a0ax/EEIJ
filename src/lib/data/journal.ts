@@ -96,7 +96,7 @@ export const journal = {
 		'JYSE is an open-access, peer-reviewed international journal for emerging researchers, with a focus on practical studies suitable for high-school and early undergraduate scholarship.',
 	email: 'editorial@jyse.org',
 	domain: 'https://www.jyse.org',
-	issn: '2319-6378 (Online)',
+	issn: '2319-6379 (Online)',
 	frequency: '12 issues per year (Monthly)',
 	publisher: 'JYSE Editorial Office',
 	firstYear: '2012'
