@@ -20,7 +20,7 @@
 				Open-access, peer-reviewed publishing for emerging science and engineering research.
 			</p>
 			<p class="text-xs break-words text-[var(--text-muted)]">
-				www.jyse.org • ISSN: 2319-6378 (Online)
+				www.jyse.org • ISSN: 2319-6379 (Online)
 			</p>
 		</div>
 		<div class="min-w-0">
