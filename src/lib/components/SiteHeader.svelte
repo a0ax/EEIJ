@@ -34,7 +34,7 @@
 		<div class="flex flex-wrap items-start justify-between gap-3">
 			<a href={resolve('/')} class="space-y-1">
 				<p class="text-xs tracking-[0.16em] text-[var(--text-muted)]">
-					<img src={headerLogo} alt="JYSE Logo" class="inline-block h-6 w-11" /> • ISSN 2319-6378 (Online)
+					<img src={headerLogo} alt="JYSE Logo" class="inline-block h-6 w-11" /> • ISSN 2319-6379 (Online)
 				</p>
 				<p class="text-lg font-semibold text-[var(--text-strong)] md:text-2xl">
 					Journal of Young Scientists & Engineers
